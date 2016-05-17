@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Football Fixture</string>
+    <string name="action_settings">Settings</string>
+    <string name="euro">UEFA EURO 2016</string>
+    <string name="uefa">UEFA Champions League</string>
+    <string name="epl">English Premeir League</string>
+    <string name="laliga">La Liga</string>
+    <string name="bundesliga">Bundesliga</string>
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="title_activity_recycle_home_view">RecycleHomeView</string>
+</resources>
